@@ -106,6 +106,11 @@ src/
 - Visual focus indicators
 - Semantic HTML structure
 
+## Screenshots
+<img width="1200" height="700" alt="highperformance1" src="https://github.com/user-attachments/assets/91455985-b463-4eae-afb5-e54f2bf23f40" />  
+<img width="1200" height="700" alt="highperformance2" src="https://github.com/user-attachments/assets/906ac74e-f51d-48fe-b7a0-a9ce8c48931d" />
+
+
 ## Demo Video
 
 A comprehensive demo video showcasing all features is available at: [Add your video URL here]
