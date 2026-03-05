@@ -3,6 +3,7 @@
 A feature-rich, high-performance video streaming web application with adaptive bitrate streaming, built with React, TypeScript, and Video.js.
 
 **[Live Demo](https://high-performance-video-streaming-platform-ivdo697aw.vercel.app)**
+(https://high-performance-video-streaming-platform-ivdo697aw.vercel.app)
 
 ## Features
 
