@@ -77,9 +77,3 @@ npm run build
 - Clear node_modules and reinstall
 - Check Node.js version (18+ required)
 
-## Next Steps
-
-1. Customize the video data in `src/data/videos.json`
-2. Add your own HLS streams
-3. Customize the theme in `tailwind.config.js`
-4. Deploy to production
