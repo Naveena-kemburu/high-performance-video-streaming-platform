@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import type Player from 'video.js/dist/types/player';
 
-export function useKeyboardControls(player: Player | null, containerRef: React.RefObject<HTMLDivElement>) {
+export function useKeyboardControls(player: Player | null) {
   useEffect(() => {
     if (!player) return;
 

@@ -18,7 +18,7 @@ export default function VideoPlayer({ video, onTimeUpdate, startTime = 0 }: Vide
   const playerRef = useRef<Player | null>(null);
   const initializedRef = useRef(false);
 
-  useKeyboardControls(playerRef.current, containerRef);
+  useKeyboardControls(playerRef.current);
 
   useEffect(() => {
     if (!videoRef.current || initializedRef.current) return;
