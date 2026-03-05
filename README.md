@@ -119,18 +119,8 @@ The demo includes:
 
 ## Deployment
 
-This application can be deployed to any static hosting service. See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed instructions.
+This application can be deployed to any static hosting service.
 
 Live Demo: [Add your deployment URL here]
 
-## Lighthouse Scores
 
-Target scores (90+):
-- Performance: 90+
-- Accessibility: 90+
-- Best Practices: 90+
-- SEO: 90+
-
-## License
-
-MIT
