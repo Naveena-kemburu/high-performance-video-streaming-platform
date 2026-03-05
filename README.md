@@ -116,7 +116,7 @@ src/
 
 ## Demo Video
 
-A comprehensive demo video showcasing all features is available at: [Add your video URL here]
+https://drive.google.com/file/d/14smq3XYv7gx4JQvKvkQ1sngGRgBXcdVO/view?usp=sharing
 
 The demo includes:
 - Video library browsing, search, and filtering
